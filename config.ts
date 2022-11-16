@@ -1,7 +1,7 @@
 export default {
   title: "yun yu yuan", // 网站标题
   nickName: "云与原", // 昵称
-  githubName: "yunyuyuan", // 必须修改，github账户名
+  githubName: "shishuocool", // 必须修改，github账户名
   githubRepo: "nuxt3-blog", // 勿修改
   githubBranch: "master", // 勿修改
   domain: "https://blog.yunyuyuan.net", // rss域名
