@@ -5,7 +5,7 @@ export default defineEventHandler(async (event) => {
   if (event.node.req.method?.toUpperCase() !== "POST") {
     throw createError({
       statusCode: 405,
-      data: "Post only!"
+      message: "Post only!"
     });
   }
   try {
@@ -18,7 +18,7 @@ export default defineEventHandler(async (event) => {
   } catch (e: any) {
     return createError({
       statusCode: 503,
-      data: e.toString()
+      message: e.toString()
     });
   }
 });
