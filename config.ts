@@ -6,7 +6,7 @@ export default {
   /** -------------------------------------------------以下可选修改----------------------------------------------------- */
 
   title: "石硕", // 网站标题
-  nickName: "shishuo", // 昵称
+  nickName: "SHISHUO", // 昵称
   domain: "https://mmm.st", // rss域名
   SEO_title: " - shishuo blog", // 搜索引擎显示的标题
   SEO_keywords: "shishuo,shishuo's blog,石硕,石硕的博客", // keywords meta header
