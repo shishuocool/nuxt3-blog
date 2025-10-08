@@ -28,7 +28,7 @@ export default {
   themeColorDark: "neutral", // 主题色(夜间模式)
   defaultLang: "zh", // default language, "zh" and "en" are supported currently
   about: [
-    "让世界充满爱",
+    "天意怜幽草，人间重晚晴。",
     
   ],
 
